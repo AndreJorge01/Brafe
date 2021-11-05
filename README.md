@@ -8,4 +8,4 @@ Brafé website homepage to practice HTML and CSS
 ## technologies used
 + HTML
 + CSS
-+Bootstrap
++ Bootstrap
