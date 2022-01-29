@@ -8,7 +8,7 @@ Brafé website homepage to practice HTML, CSS and Bootstrap
 ## technologies used
 + HTML
 + CSS
-+ Bootstrap
++ Bootstrap.
 
 # Start Dev Environment for VSCode
 + Open project folder in VSCode
