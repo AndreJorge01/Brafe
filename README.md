@@ -6,7 +6,7 @@
 Brafé website homepage to practice HTML, CSS and Bootstrap
 
 ## technologies used
-+ HTML
++ HTML.
 + CSS.
 + Bootstrap.
 
